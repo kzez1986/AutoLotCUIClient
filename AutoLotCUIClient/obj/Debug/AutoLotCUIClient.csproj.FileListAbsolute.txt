@@ -1,0 +1,2 @@
+C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.csprojAssemblyReference.cache
+C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.csproj.CoreCompileInputs.cache
