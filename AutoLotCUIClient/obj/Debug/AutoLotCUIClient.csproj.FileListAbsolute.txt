@@ -1,2 +1,10 @@
 C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.csprojAssemblyReference.cache
 C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotCUIClient.exe.config
+C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotCUIClient.exe
+C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotCUIClient.pdb
+C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotDAL.dll
+C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\bin\Debug\AutoLotDAL.pdb
+C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.csproj.CopyComplete
+C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.exe
+C:\Users\kzez1986\Source\Repos\AutoLotCUIClient\AutoLotCUIClient\obj\Debug\AutoLotCUIClient.pdb
